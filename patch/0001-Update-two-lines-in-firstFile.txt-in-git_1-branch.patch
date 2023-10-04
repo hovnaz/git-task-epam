@@ -1,0 +1,24 @@
+From 1f8dab3bda6077c0aa5a49d62945e9a599334f12 Mon Sep 17 00:00:00 2001
+From: Hovhannes Nazaryan <hovnaz.arm@gmail.com>
+Date: Wed, 4 Oct 2023 12:29:30 +0400
+Subject: [PATCH] Update two lines in firstFile.txt in git_1 branch
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index c71193e..816930f 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Line 1
+-Line 2
++Update Line 1
++Update Line 2
+ Line 3
+ Line 4
+ Line 5
+-- 
+2.38.0.windows.1
+
